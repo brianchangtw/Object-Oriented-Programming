@@ -1,0 +1,7 @@
+C:\Users\brian\Source\Repos\Object-Oriented-Programming\Multiplication_table\Multiplication_table\obj\Debug\Multiplication_table.csprojAssemblyReference.cache
+C:\Users\brian\Source\Repos\Object-Oriented-Programming\Multiplication_table\Multiplication_table\obj\Debug\Multiplication_table.csproj.CoreCompileInputs.cache
+C:\Users\brian\Source\Repos\Object-Oriented-Programming\Multiplication_table\Multiplication_table\bin\Debug\Multiplication_table.exe.config
+C:\Users\brian\Source\Repos\Object-Oriented-Programming\Multiplication_table\Multiplication_table\bin\Debug\Multiplication_table.exe
+C:\Users\brian\Source\Repos\Object-Oriented-Programming\Multiplication_table\Multiplication_table\bin\Debug\Multiplication_table.pdb
+C:\Users\brian\Source\Repos\Object-Oriented-Programming\Multiplication_table\Multiplication_table\obj\Debug\Multiplication_table.exe
+C:\Users\brian\Source\Repos\Object-Oriented-Programming\Multiplication_table\Multiplication_table\obj\Debug\Multiplication_table.pdb
